@@ -1,0 +1,996 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Southern South Saqqara pyramid",
+        "Description": "South Saqqara",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.222222,
+          29.830556
+        ],
+        "type": "Point"
+      },
+      "id": "032be3c0d979b56b960f50a72befce4b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Sahure",
+        "Description": "<p>Abusir</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.203333,
+          29.897778
+        ],
+        "type": "Point"
+      },
+      "id": "061e75fb832157c76b4fef98e7b5cc32"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Buried Pyramid",
+        "Description": "<p>Saqqara</p>",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Sekhemkhet_pyramid_at_Saqqara.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          31.213,
+          29.866
+        ],
+        "type": "Point"
+      },
+      "id": "08594f8deb0ee56befc7a8659a06b958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Mastabat al-Fir'aun",
+        "Description": "<p>Giza</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.215,
+          29.838889
+        ],
+        "type": "Point"
+      },
+      "id": "0ab6075f77d6920208741051130c5294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid G1-a",
+        "Description": "<p>Giza</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.136261,
+          29.978836
+        ],
+        "type": "Point"
+      },
+      "id": "0bfcab3752d32bcef583c5cd31036d05"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Neferefre",
+        "Description": "<p>Abusir</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.201667,
+          29.893889
+        ],
+        "type": "Point"
+      },
+      "id": "170294030ff97621f71f4456d47100ac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Menkaure",
+        "Description": "<p>Giza</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.128327,
+          29.972378
+        ],
+        "type": "Point"
+      },
+      "id": "19d7a546116d03ed8ebec0d4f9e6685f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Layer Pyramid",
+        "Description": "<p>Zawyet el'Aryan</p>",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Khaba_pyramid_at_Zawyet_el%27Aryan.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          31.161262,
+          29.93282
+        ],
+        "type": "Point"
+      },
+      "id": "1d38f4d7e60ef61dc083dc8856d588dd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Khafre",
+        "Description": "<p>Giza</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.130698,
+          29.975947
+        ],
+        "type": "Point"
+      },
+      "id": "2dfa17accc0b812c3572aeaa22e0e462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid G-3a (eastern)",
+        "Description": "<p>Giza</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.128293,
+          29.971592
+        ],
+        "type": "Point"
+      },
+      "id": "2e6e5ab7239eb7721220bea80b0ac38f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Black Pyramid",
+        "Description": "<p>Dahshur</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.223611,
+          29.791667
+        ],
+        "type": "Point"
+      },
+      "id": "2fbf459384fde7bcae65334cbce533af"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid G1-b",
+        "Description": "<p>Giza</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.136111,
+          29.978333
+        ],
+        "type": "Point"
+      },
+      "id": "313f3ce622c80241ebbbe760af96b0eb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Ibi",
+        "Description": "<p>South Saqqara</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.217778,
+          29.841667
+        ],
+        "type": "Point"
+      },
+      "id": "33ce4eb777c39c8b5d1933cb01f307b9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Ameny Qemau",
+        "Description": "<p>Dahshur</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.221389,
+          29.781667
+        ],
+        "type": "Point"
+      },
+      "id": "33db3c85e7364c6a3b212c587d66cf82"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Neferirkare",
+        "Description": "<p>Abusir</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.2025,
+          29.895
+        ],
+        "type": "Point"
+      },
+      "id": "3579c1c8b06aa526b1b304358ebccf55"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "White Pyramid",
+        "Description": "<p>Dahshur</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.222781,
+          29.805563
+        ],
+        "type": "Point"
+      },
+      "id": "37c397e5ae6c0431320cc667875f79cf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Neferhetepes (wife of Userkaf)",
+        "Description": "<p>Saqqara</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.2186,
+          29.87275
+        ],
+        "type": "Point"
+      },
+      "id": "3e148b6a356ec7090c1a2ed5d58a9090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Khendjer",
+        "Description": "South Saqqara",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.223889,
+          29.832222
+        ],
+        "type": "Point"
+      },
+      "id": "4aa850528663868273abea67c2edf471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Unfinished Northern Pyramid of Zawyet el'Aryan",
+        "Description": "<p>Zawyet el'Aryan</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.151556,
+          29.940122
+        ],
+        "type": "Point"
+      },
+      "id": "4ad53dbf9e445b1953e274ef73b69513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Queen Khentkawes II",
+        "Description": "<p>Abusir</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.202523,
+          29.894143
+        ],
+        "type": "Point"
+      },
+      "id": "520f2a77f9bede88f6209ce850781409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Northern Mazghuna pyramid",
+        "Description": "<p>Dahshur</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.220833,
+          29.7675
+        ],
+        "type": "Point"
+      },
+      "id": "53bf8f7de77f1acfb22ef2f99d1b6acb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Step Pyramid of Djoser",
+        "Description": "<p>Saqqara</p>",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Saqqara_pyramid_ver_2.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          31.216644,
+          29.871215
+        ],
+        "type": "Point"
+      },
+      "id": "5b70a5a5d3064a68b392b3423f8ed70c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Elephantine",
+        "Description": "<p>Elephantine</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          32.885278,
+          24.085556
+        ],
+        "type": "Point"
+      },
+      "id": "5edb9de1710477469da80649653b19e9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Edfu South Pyramid",
+        "Description": "<p>Edfu</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          32.841943,
+          24.943611
+        ],
+        "type": "Point"
+      },
+      "id": "61240a49174101d5856cfbc651d264c9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Southern Mazghuna pyramid",
+        "Description": "<p>Dahshur</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.220833,
+          29.761667
+        ],
+        "type": "Point"
+      },
+      "id": "615f914a1b0835e9a1dece3bddffa442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid Lepsius L",
+        "Description": "<p>Dahshur</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.212222,
+          29.810833
+        ],
+        "type": "Point"
+      },
+      "id": "61ea58d96042855c94f023ba5c49576a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid Lepsius I",
+        "Description": "<p>Abu Rawash</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.094444,
+          30.040833
+        ],
+        "type": "Point"
+      },
+      "id": "695271639c76357666b736577d68140b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Hawara",
+        "Description": "Hawara",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          30.898973,
+          29.27424
+        ],
+        "type": "Point"
+      },
+      "id": "728f2f973ce6ec153e45a02b607fca43"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Headless Pyramid",
+        "Description": "<p>Saqqara</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.223611,
+          29.875278
+        ],
+        "type": "Point"
+      },
+      "id": "7739655b264f36bdc1cc33b6760e2425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Senusret III",
+        "Description": "<p>Dahshur</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.225556,
+          29.818889
+        ],
+        "type": "Point"
+      },
+      "id": "777b309721b50e7a7396844cbf216cce"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Step tomb of Khentkaus I",
+        "Description": "<p>Giza</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.135361,
+          29.973306
+        ],
+        "type": "Point"
+      },
+      "id": "7a320993bc7fe526e498b0a9a9393900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Al Kula Pyramid",
+        "Description": "<p>Hierakonpolis</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          32.799999,
+          25.116667
+        ],
+        "type": "Point"
+      },
+      "id": "82cf8a534531d04177b6e8ece62edfbc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Meidum",
+        "Description": "<p>Meidum</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.156944,
+          29.388056
+        ],
+        "type": "Point"
+      },
+      "id": "839e6a19f1fb6732e45a00f4b10b0cb0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Athribis",
+        "Description": "<p>Athribis</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.188056,
+          30.470556
+        ],
+        "type": "Point"
+      },
+      "id": "843c1090fc2f4d4043d1c897943d9c8b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Zawyet el-Maiyitin",
+        "Description": "<p>Al-Minya</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          30.828611,
+          28.045833
+        ],
+        "type": "Point"
+      },
+      "id": "85421b9b7cf9f16446c1c55015f96d79"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Senusret I",
+        "Description": "Lisht",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.220876,
+          29.560009
+        ],
+        "type": "Point"
+      },
+      "id": "906953d781624d1c39dd4be45751f991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid G1-c",
+        "Description": "<p>Giza</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.136389,
+          29.977778
+        ],
+        "type": "Point"
+      },
+      "id": "97f57d3464f929274d06e174500f5aac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Bent Pyramid",
+        "Description": "<p>Dahshur</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.209167,
+          29.790278
+        ],
+        "type": "Point"
+      },
+      "id": "9c0c2dbb2d3ec5e8add29388a9692d2a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Djedkare-Isesi",
+        "Description": "<p>South Saqqara</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.220833,
+          29.851111
+        ],
+        "type": "Point"
+      },
+      "id": "9d29b5e487132e5cb9beeb1771393eee"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Pepi I",
+        "Description": "<p>South Saqqara</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.21909,
+          29.85451
+        ],
+        "type": "Point"
+      },
+      "id": "9f11316765e4846173293fed439d9d37"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Unas",
+        "Description": "North Saqqara",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.214722,
+          29.868333
+        ],
+        "type": "Point"
+      },
+      "id": "a55c23dc941bcdce5f82ab96aa20d632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Red Pyramid (North Pyramid)",
+        "Description": "<p>Dahshur</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.205833,
+          29.808333
+        ],
+        "type": "Point"
+      },
+      "id": "a64f2e16356ef4afb6d8af5bf64cc8e4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Seila",
+        "Description": "<p>Seila</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.053581,
+          29.382589
+        ],
+        "type": "Point"
+      },
+      "id": "abbec4f2d9e2c3b9f62ef1a8900a0539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Khui",
+        "Description": "Dara",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          30.871667,
+          27.307778
+        ],
+        "type": "Point"
+      },
+      "id": "ac40c8f843802ade2177143ff1b34ed3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Pepi II",
+        "Description": "<p>South Saqqara</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.2133,
+          29.8403
+        ],
+        "type": "Point"
+      },
+      "id": "b081932b82b13ab7c4cc964b13f74c2e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Tomb S9",
+        "Description": "<p>Abydos</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.925,
+          26.171389
+        ],
+        "type": "Point"
+      },
+      "id": "b342de2f677a2191625acf01ec9aacc6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Tomb S10",
+        "Description": "<p>Abydos</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.924167,
+          26.171111
+        ],
+        "type": "Point"
+      },
+      "id": "b34b58b98ce53d3b3c414709a09883f9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Amenemhet I",
+        "Description": "Lisht",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.225,
+          29.574722
+        ],
+        "type": "Point"
+      },
+      "id": "b76fd8388e9fcab44e49625abd4757d5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Unfinished pyramid of North Abusir",
+        "Description": "<p>Abusir</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.201633,
+          29.898664
+        ],
+        "type": "Point"
+      },
+      "id": "bac7d054e68166b221c887fcefc5af38"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid G-3c (western)",
+        "Description": "<p>Giza</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.127274,
+          29.971592
+        ],
+        "type": "Point"
+      },
+      "id": "cb6b0bc62fc79402c0ddd6a35ba07c33"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Ahmose",
+        "Description": "<p>Abydos</p>"
+      },
+      "geometry": {
+        "coordinates": [
+          31.937778,
+          26.175
+        ],
+        "type": "Point"
+      },
+      "id": "cccf12f8032aace72147cc6e3944693c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Nyuserre",
+        "Description": "<p>Abusir</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.203556,
+          29.895667
+        ],
+        "type": "Point"
+      },
+      "id": "d0c36850e7be41fe00fee237307e2024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Teti",
+        "Description": "North Saqqara",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.221667,
+          29.875278
+        ],
+        "type": "Point"
+      },
+      "id": "d6c31633758aab9270009d9ac8570023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Userkaf",
+        "Description": "<p>Saqqara</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.218889,
+          29.873611
+        ],
+        "type": "Point"
+      },
+      "id": "dcd6635f325974ed356a5991dfd1db23"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Sinki",
+        "Description": "<p>Abydos</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.966111,
+          26.157778
+        ],
+        "type": "Point"
+      },
+      "id": "dd60ac8b20363815eac0faa918a829d8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "The Great Pyramid of Giza",
+        "Description": "<p>Giza</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.134167,
+          29.979167
+        ],
+        "type": "Point"
+      },
+      "id": "e62916f1f7b33b02d88c09f7fdc2e0bf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Senusret II",
+        "Description": "El-Lahun",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          30.966667,
+          29.233333
+        ],
+        "type": "Point"
+      },
+      "id": "e639b0e29cba2176df2761ed1917cdc5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Djedefre",
+        "Description": "<p>Abu Rawash</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.074722,
+          30.032222
+        ],
+        "type": "Point"
+      },
+      "id": "ea16aae3bbca38b63b880c3f55803289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid G-3b (middle)",
+        "Description": "<p>Giza</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.127783,
+          29.971592
+        ],
+        "type": "Point"
+      },
+      "id": "ef144a012af1e514f197c9defb55bc13"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Merenre",
+        "Description": "<p>South Saqqara</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.215,
+          29.850556
+        ],
+        "type": "Point"
+      },
+      "id": "f32b0fa52793188c8c3f98d7747a3dcd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid of Naqada (Pyramid of Ombos)",
+        "Description": "<p>Naqada</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          32.709167,
+          25.940556
+        ],
+        "type": "Point"
+      },
+      "id": "f41916bcad7a82d6f5e4b5eb7bb42645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Pyramid G1-d",
+        "Description": "<p>Giza</p>",
+        "Image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          31.136256,
+          29.97785
+        ],
+        "type": "Point"
+      },
+      "id": "f832f9dfe536bfed9c7de77e13f4a265"
+    }
+  ],
+  "type": "FeatureCollection"
+}
